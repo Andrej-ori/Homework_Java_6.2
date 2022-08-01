@@ -1,3 +1,6 @@
-1235, true, 37
-12432 , false, 124
-165685, true, 500
+'registered user	bonus under limit';7000;true;210
+'registered user	bonus over limit';20000;true;500
+'unregistered user	bonus under limit';10000;false;100
+'unregistered user	bonus over limit';20000;false;500
+'registered user	no bonus';500;true;15
+'unregistered user	no bonus';500;false;15
